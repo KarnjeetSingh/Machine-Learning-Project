@@ -10,3 +10,22 @@ The model analyzes historical stock price data, calculates multiple technical in
 ⚪ Sideways (No significant movement)
 
 The project demonstrates the application of data science, feature engineering, and machine learning in financial market analysis.
+
+Features
+Download 5 years of historical stock data using Yahoo Finance
+Generate technical indicators automatically
+Train a Random Forest Classification model
+Perform Time-Series Cross Validation
+Predict future stock trends
+Generate bullish and bearish signals
+Visualize predictions on stock price charts
+Evaluate model performance using accuracy and classification metrics
+
+Technologies Used
+Technology	Purpose
+Python	Programming Language
+Pandas	Data Processing
+NumPy	Numerical Computation
+yFinance	Stock Data Collection
+Scikit-Learn	Machine Learning
+Matplotlib	Data Visualization
